@@ -1,0 +1,23 @@
+{
+  "name": "basics",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start:dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ribeiro-henrique/node-basics.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ribeiro-henrique/node-basics/issues"
+  },
+  "homepage": "https://github.com/ribeiro-henrique/node-basics#readme",
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
