@@ -17,9 +17,14 @@ const server = http.createServer((req, res) => {
         email: 'hesr.ribeiro@gmail.com',
       },
       {
-        name: 'Thamires',
-        surname: 'Yolanda',
-        email: 'tthamires.ribeiro@gmail.com',
+        name: 'Jackson',
+        surname: 'Santos',
+        email: 'jack3d@gmail.com',
+      },
+      {
+        name: 'Wilson',
+        surname: 'Junior',
+        email: 'wilsin@gmail.com',
       }
     ];
 
